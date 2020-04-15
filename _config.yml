@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 lsi: false
 safe: true
-# source: [your repo's top level directory]
+source: https://github.com/skhung/jekyll-page.git
 incremental: false
 highlighter: rouge
 gist:
