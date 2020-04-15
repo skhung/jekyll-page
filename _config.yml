@@ -30,7 +30,7 @@ twitter_username: skhung168
 github_username:  skhung
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 lsi: false
